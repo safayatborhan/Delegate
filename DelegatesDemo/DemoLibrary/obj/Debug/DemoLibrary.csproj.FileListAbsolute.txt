@@ -1,0 +1,5 @@
+D:\WORKS\Delegate\DelegatesDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\WORKS\Delegate\DelegatesDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\WORKS\Delegate\DelegatesDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+D:\WORKS\Delegate\DelegatesDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\WORKS\Delegate\DelegatesDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb

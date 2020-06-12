@@ -1,0 +1,8 @@
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\WORKS\Delegate\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
