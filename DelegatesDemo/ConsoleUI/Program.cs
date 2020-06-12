@@ -14,10 +14,15 @@ namespace ConsoleUI
         {
             PopulateCartWithDemoData();
 
-            Console.WriteLine($"The total for the cart is {cart.GenerateTotal(SubTotalAlert, CalculateLeveledDiscount):C2}");
+            Console.WriteLine($"The total for the cart is {cart.GenerateTotal(SubTotalAlert, CalculateLeveledDiscount, AlertUser):C2}");
             Console.WriteLine();
             Console.Write("Please press any key to exit the application");
             Console.ReadKey();
+        }
+
+        private static void AlertUser(string message)
+        {
+            Console.WriteLine(message);
         }
 
         private static decimal CalculateLeveledDiscount(List<ProductModel> items, decimal subTotal)
